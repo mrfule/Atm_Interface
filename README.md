@@ -12,4 +12,4 @@ if u dont understand code that's fine
   
 #-then test application 
 
-#--if any changes req kidnly pull Request-------
+#--if any changes req kindly pull Request-------
