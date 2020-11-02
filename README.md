@@ -8,7 +8,7 @@ if u dont understand code that's fine
 
 #-open cmd ----Windows+r------type cmd 
 
-#-java -jar <path of jar file.jar>
+#-java -jar path of jar file.jar
   
 #-then test application 
 
